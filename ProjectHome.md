@@ -1,0 +1,1 @@
+A tool designed to collect metrics from several common IVTC filters used in Avisynth so that they can be manually improved upon. It also has several features related to generating complex Avisynth scripts for certain parts of the encoding process. The project also contains a few small filters that can be useful in the process.
